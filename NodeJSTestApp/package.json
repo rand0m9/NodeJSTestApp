@@ -1,0 +1,9 @@
+{
+  "name": "node-jstest-app",
+  "version": "0.0.0",
+  "description": "NodeJSTestApp",
+  "main": "server.js",
+  "author": {
+    "name": "jcasement"
+  }
+}
